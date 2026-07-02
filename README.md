@@ -1,4 +1,5 @@
-<img width="892" height="440" alt="image" src="https://github.com/user-attachments/assets/4b5b414e-abca-4c47-b451-bbc0cfdf0733" />
+<img width="1536" height="1024" alt="WhatsApp Image 2026-07-02 at 11 25 44 PM" src="https://github.com/user-attachments/assets/d863d921-e462-4c60-af80-0201d7cfc5fa" />
+
 
 # Hi, I'm Anshul 👋
 
